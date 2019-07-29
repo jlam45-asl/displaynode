@@ -1,4 +1,4 @@
 <?php
-echo 'Node IP - '.$_SERVER['REMOTE_ADDR'];
+echo 'Node IP - '.$_SERVER['SERVER_ADDR'];
 echo "\n";
 ?>
